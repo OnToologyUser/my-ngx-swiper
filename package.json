@@ -1,9 +1,9 @@
 {
-  "name": "ngx-swiper-wrapper",
+  "name": "my-ngx-swiper-wrapper",
   "description": "Angular wrapper library for Swiper",
-  "bugs": "https://github.com/zefoy/ngx-swiper-wrapper/issues",
+  "bugs": "https://github.com/sajeev-vs/my-ngx-swiper/issues",
   "license": "MIT",
-  "version": "8.0.2",
+  "version": "1.0.0",
   "main": "./bundles/ngx-swiper-wrapper.umd.js",
   "module": "./dist/ngx-swiper-wrapper.es5.js",
   "typings": "./dist/ngx-swiper-wrapper.d.ts",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zefoy/ngx-swiper-wrapper.git"
+    "url": "https://github.com/sajeev-vs/my-ngx-swiper.git"
   },
   "dependencies": {
     "swiper": "^4.5.0"
